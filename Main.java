@@ -1,10 +1,13 @@
 import java.util.Random;
 import java.util.Scanner;
 
+
+
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int num1,num2;
+        System.out.println("enter a number");
         System.out.println("enter a number");
         num1 = in.nextInt();
         System.out.println("enter another number");
