@@ -13,9 +13,7 @@ public class Main {
         System.out.println("enter another number");
         num2 = in.nextInt();
         System.out.println(divisible(num1,num2));
-        for (int i = 0; i < 21; i++) {
-            System.out.println("drhydehjh");
-        }
+
     }
 
     public static String divisible(int num1, int num2) {
